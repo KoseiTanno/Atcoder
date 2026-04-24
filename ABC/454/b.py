@@ -1,3 +1,5 @@
+# 私の回答
+# 正解
 N,M = map(int,input().split())
 F = list(map(int,input().split()))
 for i in F:

@@ -1,5 +1,6 @@
 # 私の回答
 # 正解
+# popは取り出す位置を引数で指定できる
 N = int(input())
 A = list(map(int,input().split()))
 lst = [i for i in range(1,N+1)]

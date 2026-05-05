@@ -29,3 +29,19 @@
 # print(*lst)
 
 # 模範回答
+# zipは転置、複数のイテラブルから同じインデックスの要素をまとめてタプルにする
+n, m = map(int, input().split())
+
+ss = [input() for _ in range(n)]
+p = [0] * n
+
+for s in zip(*ss):
+    c = "0" if s.count("0") < s.count("1") else "1"
+    for i in range(n):
+        if s[i] == c:
+            p[i] += 1
+
+mx = max(p)
+for i in range(n):
+    if p[i] == mx:
+        print(i + 1, end=" ")

@@ -1,0 +1,9 @@
+# 私の回答
+# 正解
+X,Y = map(int,input().split())
+cnt = 0
+for i in range(1,7):
+    for j in range(1,7):
+        if (i+j >= X) or (abs(i-j) >= Y):
+            cnt += 1
+print(cnt/36)

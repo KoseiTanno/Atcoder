@@ -1,3 +1,5 @@
+# 私の回答
+# 正解
 N = int(input())
 res = [""] * N
 S = list(map(str,input().split()))

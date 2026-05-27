@@ -1,3 +1,5 @@
+# 私の回答
+# 正解
 N = int(input())
 see = list(map(int,input().split()))
 zekken = list(map(int,input().split()))

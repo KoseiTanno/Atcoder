@@ -1,1 +1,5 @@
 .DS_Store
+
+# new_day ルーティンの作業ファイル
+.new_day_stamp
+.new_day.log

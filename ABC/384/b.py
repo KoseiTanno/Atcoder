@@ -1,5 +1,6 @@
 # https://atcoder.jp/contests/abc384/tasks/abc384_b
 # 私の回答
+# 正解
 
 N,R = map(int,input().split())
 for i in range(N):

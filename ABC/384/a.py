@@ -1,5 +1,6 @@
 # https://atcoder.jp/contests/abc384/tasks/abc384_a
 # 私の回答
+# 正解
 A = list(input().split())
 S = list(input())
 res = []

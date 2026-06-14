@@ -1,5 +1,6 @@
 # https://atcoder.jp/contests/abc377/tasks/abc377_b
 # 私の回答
+# 正解
 
 N = 8
 S = []

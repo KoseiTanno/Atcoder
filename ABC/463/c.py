@@ -11,9 +11,6 @@ for i in range(N-1,-1,-1):
 Q = int(input())
 T = list(map(int,input().split()))
 
-out = []
 for i in T:
     j = bisect.bisect_right(L_lst,i)
-    out.append(suffix_max[j])
-print("\n".join(map(str,out)))
-
+    print(suffix_max[j])

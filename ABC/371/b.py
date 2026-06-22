@@ -1,5 +1,6 @@
 # https://atcoder.jp/contests/abc371/tasks/abc371_b
 # 私の回答
+# 正解
 
 N,M = map(int,input().split())
 house_sex = list(map(int,"0" * N))

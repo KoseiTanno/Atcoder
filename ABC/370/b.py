@@ -1,5 +1,6 @@
 # https://atcoder.jp/contests/abc370/tasks/abc370_b
 # 私の回答
+# 正解
 
 N=int(input())
 A=[list(map(int,input().split())) for _ in range(N)]

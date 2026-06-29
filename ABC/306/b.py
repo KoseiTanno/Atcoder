@@ -1,0 +1,3 @@
+# https://atcoder.jp/contests/abc306/tasks/abc306_b
+# 私の回答
+

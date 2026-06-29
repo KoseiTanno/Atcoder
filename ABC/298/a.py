@@ -1,0 +1,3 @@
+# https://atcoder.jp/contests/abc298/tasks/abc298_a
+# 私の回答
+

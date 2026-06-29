@@ -1,0 +1,3 @@
+# https://atcoder.jp/contests/abc340/tasks/abc340_b
+# 私の回答
+
